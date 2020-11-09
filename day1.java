@@ -7,7 +7,7 @@ public class day1 {
 		
 		System.out.println("Hello world");
 		
-		
+		System.out.println("change 1");
 
 	}
 
